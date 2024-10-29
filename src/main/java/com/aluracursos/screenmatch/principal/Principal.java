@@ -32,13 +32,13 @@ public class Principal {
                     1 - Buscar Series
                     2 - Buscar Episodios
                     3 - Mostrar series buscadas
-                    
                     4 - Buscar Serie por titulo
                     5 - Top 5 mejores Series
                     6 - Buscar Series por categoria
                     7 - Filtrar Series
                     8 - Buscar episodios por titulo
                     9 - Top 5 Episodios por Serie
+                    
                     0 - Salir
                     """;
             System.out.println(menu);
